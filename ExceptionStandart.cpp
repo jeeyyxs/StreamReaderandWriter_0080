@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-    
+    cout << "Awal Program" << endl; //penanda 1
 }
